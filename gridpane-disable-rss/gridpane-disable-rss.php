@@ -12,6 +12,6 @@ function gridpane_security_remove_wp_version_rss() {
 }
 
 function gridpane_security_disable_feed() {
-	wp_die( __( 'GridPane Security has disabled the RSS Feed, please visit the <a href="'. esc_url( home_url( '/' ) ) .'">homepage</a>!' ) );
+	wp_die( __( 'GridPane Security has disabled the RSS Feed, please visit the <a href="'. esc_url( home_url( '/' ) ) .'">Homepage</a>!' ) );
 }
 
