@@ -1,3 +1,3 @@
-# Kill RSS  
+Upload directory to mu-plugins
 
-MU plugin for GridPane
+Copy mu-gridpane-*-.php file directly to mu-plugins directory
